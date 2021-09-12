@@ -20,6 +20,7 @@
 		E772274626E632B000DD2B36 /* ContentCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E772274526E632B000DD2B36 /* ContentCollectionViewCell.swift */; };
 		E772274826E633F800DD2B36 /* ContentCollectionViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = E772274726E633F800DD2B36 /* ContentCollectionViewHeader.swift */; };
 		E772274A26E7695E00DD2B36 /* ContentCollectionViewRankCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E772274926E7695E00DD2B36 /* ContentCollectionViewRankCell.swift */; };
+		FE8A55F826EE4B0700B10BC1 /* ContentCollectionViewMainCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE8A55F726EE4B0700B10BC1 /* ContentCollectionViewMainCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E772274526E632B000DD2B36 /* ContentCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewCell.swift; sourceTree = "<group>"; };
 		E772274726E633F800DD2B36 /* ContentCollectionViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewHeader.swift; sourceTree = "<group>"; };
 		E772274926E7695E00DD2B36 /* ContentCollectionViewRankCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewRankCell.swift; sourceTree = "<group>"; };
+		FE8A55F726EE4B0700B10BC1 /* ContentCollectionViewMainCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewMainCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				E772273326E62CE500DD2B36 /* LaunchScreen.storyboard */,
 				E772273626E62CE500DD2B36 /* Info.plist */,
 				E772273C26E62DB900DD2B36 /* HomeViewController.swift */,
+				FE8A55F726EE4B0700B10BC1 /* ContentCollectionViewMainCell.swift */,
 				E772274126E62FB800DD2B36 /* Content.plist */,
 				E772274326E62FE800DD2B36 /* Content.swift */,
 				E772274526E632B000DD2B36 /* ContentCollectionViewCell.swift */,
@@ -164,6 +167,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE8A55F826EE4B0700B10BC1 /* ContentCollectionViewMainCell.swift in Sources */,
 				E772272D26E62CE400DD2B36 /* ViewController.swift in Sources */,
 				E772272926E62CE400DD2B36 /* AppDelegate.swift in Sources */,
 				E772274626E632B000DD2B36 /* ContentCollectionViewCell.swift in Sources */,
